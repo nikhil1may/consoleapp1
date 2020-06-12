@@ -7,6 +7,6 @@ namespace ConsoleApp1
     interface Interface1
     {
         void add(int a);
-        void add2();
+        void add4();
     }
 }
