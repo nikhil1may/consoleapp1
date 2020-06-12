@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         void add(int a);
         void add4();
-        void addmaster();
+ 
         void addmaster1();
     }
 }
